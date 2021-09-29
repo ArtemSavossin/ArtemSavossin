@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtemSavossin
 - 👀 I’m interested in web development, react, JS
-- 🌱 I’m currently having an internship at Yandex.Maps
+- 🌱 I’m junior developer at Yandex.Maps
 - 📫 How to reach me telegram: @ArtyomSavossin
 
 <!---
